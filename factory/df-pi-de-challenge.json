@@ -1,0 +1,9 @@
+{
+	"name": "df-pi-de-challenge",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f7058139-09f5-4d48-b71d-a481effeca18",
+		"tenantId": "f5631461-afce-4e10-bee9-1ccab7c0d877"
+	}
+}
